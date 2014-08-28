@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "author": "Skyline (git://github.com/Skyline-Data)",
+  "name": "skyline-search",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Skyline-Data/skyline-search.git"
+  },
+  "main": "lib/search",
+  "dependencies": {
+    "underscore": "^1.4.4",
+    "underscore.string": "~2.3.1",
+    "step": "0.0.5"
+  },
+  "engines": {
+    "node": "~0.10.26"
+  }
+}
