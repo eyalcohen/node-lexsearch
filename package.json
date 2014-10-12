@@ -1,11 +1,11 @@
 {
   "private": true,
-  "author": "Skyline (git://github.com/Skyline-Data)",
-  "name": "skyline-search",
+  "author": "eyalcohen",
+  "name": "node-lexsearch",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Skyline-Data/skyline-search.git"
+    "url": "git://github.com/eyalcohen/node-lexsearch"
   },
   "main": "lib/search",
   "dependencies": {
